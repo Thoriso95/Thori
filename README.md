@@ -6,8 +6,11 @@
 
 <ul>
 Name: Thoriso Rampedi
+ 
 Age: 25
+
 Country: South  Africa
+
 E-mail: thorisorampedi@ymail.com
 
  
