@@ -22,6 +22,7 @@ Role: Finance and Facilities Intern
 <li>Raising purchase orders</li>
 <li>Financial analysis</li>
 <li>Facilities management of Johannesburg office and support to Cape Town</li>
+ 
 
 ### Company: Rampedi Farming
 
