@@ -11,7 +11,7 @@ E-mail: thorisorampedi@ymail.com
 
  
 
-### Work Experince 
+## Work Experince 
 ### Company: Hitachi Vantara
 
 Date: August 2018 - February 2019
@@ -23,7 +23,7 @@ Role: Finance and Facilities Intern
 <li>Financial analysis</li>
 <li>Facilities management of Johannesburg office and support to Cape Town</li>
 
-Company: Rampedi Farming
+### Company: Rampedi Farming
 
 Date: January 2019 - Current
 
@@ -36,7 +36,7 @@ Handling of day to day activities in relation to the running of the business.
 <li>Handling of all queries and enquires from clients and prospective clients</li>
 <li>Resource management</li>
 
-Company: Betapoint
+### Company: Betapoint
 
 Date: January 2018 – December 2018
 
@@ -57,13 +57,6 @@ simultaneously to achieve holistic property solutions for the blue-chip clients.
  
  
 
-### Projects
-
- 
-
- 
- 
-### Goals
 
  
 
