@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Hello, I am Kayla Rautenbach
+## Welcome to My First GitHub Page
 
-You can use the [editor on GitHub](https://github.com/Thoriso95/Thori/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently part of the Dimension Data GAP 2020 program. 
 
-### Markdown
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### More about me:
 
-```markdown
-Syntax highlighted code block
+ 
 
-# Thoriso
-## Rampedi
-### Header 3
+ I am 25 years old and I grew up in Underberg, KZN. I went to boarding school in Pietermaritzburg at The Wykeham Collegiate and I then went on to study at Stellenbosch University. I did a Bachelor of Science in Biodiversity and Ecology. 
+ 
+ After graduating, I went to Vietnam and taught English there for 18 months. I then found myself working at Londolozi Game Reserve for another 18 months in the hospitality industry. 
 
-- Bulleted
-- List
+ 
 
-1. Numbered
-2. List
+### Projects
 
-**Bold** and _Italic_ and `Code` text
+ 
 
-[Link](url) and ![Image](src)
-```
+ We rotate throughout Dimension Data and we have already been in the Digital Advisory space, spent time with the Customer Experience Team and we have been through the Sales department. I look forward to what the rest of the year has in store, whether it be virtual or back at The Campus. 
+ 
+### Goals
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thoriso95/Thori/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ I am eager to learn as much as possible this year and in some way make a difference. I would love to get involved in Connected Conservation.
