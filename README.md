@@ -8,6 +8,7 @@
 
 *Company: Dimension Data  
 *Date: February 2019 - Present 
+
 *Role: Graduate Intern 
 
 *Company: Rampedi Farming   
