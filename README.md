@@ -6,12 +6,17 @@
 
 # Work Experience 
 
-*Company*: Dimension Data  
-*Date*: February 2019 - Present 
-*Role*: Graduate Intern 
+*Company: Dimension Data  
+*Date: February 2019 - Present 
+*Role: Graduate Intern 
 
+*Company: Rampedi Farming   
+*Date: January 2019 - Present  
+*Role: Director 
 
-
+*Company: Betapoint   
+*Date: January 2018 - December 2018  
+*Role: Business Analsyt
 
 ## Skills 
 >
