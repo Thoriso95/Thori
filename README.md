@@ -1,6 +1,7 @@
 # Welcome to my page
 ## *Thoriso Rampedi*
-![image](link)
+
+![image](https://github.com/Thoriso95/Thori/blob/master/Thori%20Grad.png)
 
 ## About me
 *I am currently part of the Dimension Data Graduate Accelerate Program. I was a business analyst with 1 year experience in the property consulting space, coupled with 1 year of property management mainly of shopping centres. I have a good understanding of facilities management and workplace strategy. Solid communication and people skills.* 
