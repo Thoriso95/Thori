@@ -10,7 +10,6 @@
 
 *Company: Dimension Data  
 *Date: February 2019 - Present 
-
 *Role: Graduate Intern 
 
 *Company: Rampedi Farming   
@@ -36,6 +35,7 @@
 > - Basic fire fighting 2017
 > - Health and safety 2017
 > - Pig production 2019
+> - Safe Training 2020
  
 
 
